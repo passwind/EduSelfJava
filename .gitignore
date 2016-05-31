@@ -1,0 +1,27 @@
+*/target
+
+.idea/
+
+**/*.iml
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+hs_err_pid*
+
+.svn
+
+#eclipse specific
+.classpath
+.settings
+.project
+bin
+
+*.pyc
+
+.pydevproject
+
+
